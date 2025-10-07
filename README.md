@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Linux and bash scripting <br>🌱 I’m currently learning Rust and relearning C<br>
+🔭 I’m currently working on Linux and  kernels 
+<br>🌱 I’m currently learning Rust and relearning Operating Systems <br>
 
 
 ## 🌐 Socials:
@@ -15,4 +16,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sayeedyasar&icon=4&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
