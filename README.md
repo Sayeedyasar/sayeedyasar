@@ -5,6 +5,10 @@
 
  ## I am 
  - Open to work on projectts and freelancing
- -  Connect with people to learn and work on systems and AI 
+ -  Connect with people to learn and work on systems and AI
+
+## Socials 
+ - [Linkedin](https://www.linkedin.com/in/sayeedyasar/)
+ - [Mail](sayeedyasar15@gmail.com)
 
 
